@@ -1,0 +1,1025 @@
+@media (max-width: 1239px) {
+  .control .buttn2 {
+    min-width: 400px;
+  }
+  .possibilities .buttons {
+    max-width: none;
+  }
+  .articles .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .possibilities .buttn {
+    min-width: 400px;
+  }
+  .possibilities .buttons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 20px;
+    overflow: hidden;
+    overflow-x: scroll;
+    width: 100%;
+    height: 420px;
+  }
+  .select-format .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 40px;
+  }
+  .quiz01 .q-item {
+    width: 47%;
+  }
+  .programm .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .intro .slider-controls {
+    right: 20px;
+  }
+  .container {
+    padding: 0px 20px;
+  }
+  .a-header nav {
+    display: none;
+  }
+  .possibilities .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    gap: 40px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .possibilities .ccscrll,
+  .possibilities .scrll {
+    display: none;
+  }
+  .integration img {
+    max-width: 50%;
+  }
+  .articles a {
+    min-width: 400px;
+  }
+  .statistic .wrapper {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .reviews .items {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+
+@media (max-width: 1110px) {
+  .intro .animation {
+    margin-left: 0;
+  }
+  .possibilities .wrapper,
+  .programm .wrapper {
+    max-width: 450px;
+    margin: 0px auto;
+  }
+  .possibilities .buttn {
+    min-width: 70%;
+  }
+  img {
+    max-width: 100%;
+  }
+  .select-format,
+  .possibilities,
+  .programm {
+    padding: 60px 0px;
+  }
+  .quiz01 .wrapper,
+  .articles .wrapper,
+  .statistic .item,
+  .reviews .items,
+  .quiz02 .next,
+  .footer .right,
+  .integration .wrapper,
+  .footer .wrapper,
+  .select-format .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .container {
+    padding: 0px 16px;
+  }
+  .a-header .msgrs,
+  .a-header .nav {
+    display: none;
+  }
+  .select-format .butt {
+    width: 47%;
+  }
+  .select-format .buttons {
+    margin: 24px 0px 0px 0px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .possibilities .wrapper,
+  .programm .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+  }
+  .possibilities .wrapper img {
+    max-width: -webkit-fit-content;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+  }
+  .intro .top h1,
+  .faq.functions .info img,
+  .control .cc-animation2 img,
+  .possibilities .animation2 img {
+    max-width: 100%;
+  }
+  .faq.functions .info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+  .quiz01 .q-item {
+    width: 47%;
+  }
+  .quiz02 .input.phone,
+  .quiz02 .input.name {
+    width: 100%;
+  }
+  .footer .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    gap: 40px;
+  }
+  .select-format h2,
+  .programm h2,
+  .possibilities .title h2,
+  .support h2,
+  .integration h2,
+  .quiz01 h2,
+  .articles h2,
+  .statistic h2,
+  .faq h2,
+  .reviews h2,
+  .quiz02 h2 {
+    font-size: 28px;
+  }
+  .possibilities .title p,
+  .support .subtitle,
+  .quiz01 .sub,
+  .articles .subtitle,
+  .statistic .subtitle,
+  .faq .subtitle,
+  .reviews .sub,
+  .quiz02 .subtitle {
+    font-size: 18px;
+  }
+  .faq .question-js {
+    padding: 0px 35px 24px 0px;
+    font-size: 20px;
+  }
+  .reviews .item {
+    width: 100%;
+  }
+  .articles a {
+    width: 100%;
+  }
+  .select-format .butt {
+    height: 180px;
+  }
+  .select-format h3 {
+    z-index: 99;
+  }
+  .a-header .logo {
+    width: 50%;
+  }
+  .select-format .png {
+    max-height: 111px;
+  }
+  .control .ccscrll,
+  .possibilities .scrll {
+    display: none;
+  }
+  .quiz01 .q-item {
+    font-size: 12px;
+  }
+  .quiz01 .anim {
+    text-align: center;
+  }
+  .statistic .item {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    min-height: 120px;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  .statistic span {
+    font-size: 60px;
+  }
+  .statistic .unit {
+    font-size: 20px;
+  }
+  .statistic p {
+    font-size: 16px;
+  }
+  .reviews .stars {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin: 0px 0px 30px 0px;
+  }
+  .reviews .wrapper {
+    background: #f0f0f0;
+    border-radius: 20px;
+  }
+  .intro .animation {
+    right: 0;
+    width: 100%;
+    top: 122px;
+    text-align: center;
+  }
+  .intro {
+    height: 1014px;
+  }
+  .intro .top {
+    height: 770px;
+  }
+  .phone1 {
+    height: 414px;
+  }
+  .intro .butt {
+    position: absolute;
+    top: 585px;
+    left: 50%;
+    margin-left: -100px;
+    width: 200px;
+    font-size: 12px;
+    padding: 15px 11px;
+    border-radius: 16px;
+  }
+  .intro .butt:hover {
+    background: #6688e1;
+  }
+  .intro .butt svg {
+    max-width: 18px;
+  }
+  .intro .text p {
+    font-size: 14px;
+  }
+  .intro .pagination {
+    top: 963px;
+    left: 30px;
+  }
+  .intro .slider-controls {
+    top: 950px;
+    right: 30px;
+  }
+  .intro .mess-win {
+    top: -10px;
+    left: 50%;
+    margin-left: -187px;
+  }
+  .select-format h3 {
+    font-size: 18px;
+  }
+  .possibilities .animation2,
+  .possibilities .cc-animation2 {
+    text-align: center;
+    width: 100%;
+  }
+  .possibilities .animation2 .phone,
+  .possibilities .cc-animation2 .phone {
+    height: 600px;
+  }
+  .possibilities .ccin05,
+  .possibilities .ccin04,
+  .possibilities .ccin03,
+  .possibilities .ccin02,
+  .possibilities .ccin01,
+  .possibilities .in05,
+  .possibilities .in04,
+  .possibilities .in03,
+  .possibilities .in02,
+  .possibilities .in01 {
+    left: 0;
+  }
+  .possibilities .in02 {
+    top: 296px;
+  }
+  .possibilities .ccin02 {
+    top: 385px;
+  }
+  .possibilities .animation2 {
+    height: 660px;
+  }
+  .possibilities .buttons {
+    width: 100%;
+    height: 420px;
+  }
+  .possibilities .buttn {
+    padding: 20px;
+  }
+  .possibilities .buttn h3 {
+    font-size: 20px;
+  }
+  .possibilities .buttn p {
+    font-size: 16px;
+  }
+  .programm h3 {
+    font-size: 20px;
+  }
+  .programm p {
+    font-size: 16px;
+  }
+  .possibilities .cc-animation2 {
+    height: 660px;
+  }
+  .control .buttn2 h3 {
+    font-size: 20px;
+  }
+  .control .buttn2 p {
+    font-size: 16px;
+  }
+  .control .buttn2 {
+    padding: 20px;
+  }
+  .faq .answer-js {
+    font-size: 17px;
+  }
+  .a-header .list ul {
+    margin-top: 140px;
+  }
+  .intro {
+    overflow: hidden;
+  }
+  .modal-enter .modal-body {
+    margin: 30px auto 0px auto;
+  }
+  .intro .card-1 {
+    left: -10px;
+    top: 25px;
+  }
+  .intro .card-2 {
+    left: auto;
+    right: 0;
+    top: 140px;
+    max-width: 300px;
+  }
+  .intro .card-3 {
+    left: 0px;
+    top: 300px;
+  }
+  .intro .card-4 {
+    max-width: 270px;
+    left: 0;
+    top: 0;
+  }
+  .intro .card-5 {
+    max-width: 210px;
+    right: 0;
+    left: auto;
+    top: 80px;
+  }
+  .intro .card-6 {
+    max-width: 350px;
+    left: 0;
+    top: 234px;
+  }
+  .programm .video {
+    height: 300px;
+  }
+  .videoWrapper {
+    margin-top: 120px;
+  }
+  .support .container {
+    position: relative;
+  }
+  .support .item.center {
+    position: absolute;
+    left: 0;
+    top: 100px;
+    width: 100%;
+  }
+  .support .wrapper {
+    height: 840px;
+    padding: 420px 0px 0px 0px;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    overflow: hidden;
+    overflow-x: scroll;
+  }
+  .support .item {
+    min-width: 70%;
+    overflow: hidden;
+  }
+  .support p {
+    font-size: 12px;
+  }
+  .articles a img {
+    width: 80%;
+  }
+  .articles a {
+    min-width: 80%;
+    height: auto;
+  }
+  .articles a img {
+    width: 100%;
+  }
+  .control .buttn2 {
+    min-width: 70%;
+  }
+  .support .item.center {
+    width: 340px;
+    height: 340px;
+    padding: 20px;
+    left: 20px;
+    max-width: 80%;
+    min-width: auto;
+  }
+  .support .item.center img {
+    max-width: 200px;
+  }
+  .possibilities .animation2 .phone,
+  .possibilities .cc-animation2 .phone {
+    height: 300px;
+  }
+  .possibilities .animation2,
+  .possibilities .cc-animation2 {
+    height: 350px;
+  }
+  .intro .top h1,
+  .faq.functions .info img,
+  .control .cc-animation2 img,
+  .possibilities .animation2 img {
+    max-width: 100%;
+  }
+  .possibilities .buttn {
+    height: 250px;
+  }
+  .possibilities .buttons {
+    height: 270px;
+  }
+  .possibilities .buttn p,
+  .control .buttn2 p {
+    font-size: 12px;
+  }
+  .possibilities .animation2,
+  .possibilities .cc-animation2 {
+    width: 70%;
+    height: 340px;
+  }
+  .control .ccin01 {
+    top: 5px;
+  }
+  .possibilities .ccin02 {
+    top: 230px;
+  }
+  .possibilities .ccin05 {
+    top: -20px;
+  }
+  .possibilities .in05,
+  .possibilities .in03,
+  .possibilities .ccin04,
+  .possibilities .ccin03 {
+    top: 20px;
+  }
+  .possibilities .in02 {
+    top: 150px;
+  }
+  .possibilities .in01 {
+    top: -30px;
+  }
+  .possibilities .in04 {
+    top: -40px;
+  }
+  .intro .top {
+    padding: 25px 0px;
+  }
+  .intro .top h1 {
+    font-size: 26px;
+  }
+  .intro .animation {
+    top: 100px;
+  }
+  .phone1 {
+    height: 250px;
+  }
+  .intro .animation img {
+    max-width: 60%;
+  }
+  .intro .card-2 {
+    top: 60px;
+  }
+  .intro .card-3 {
+    top: 210px;
+    right: 0;
+    left: auto;
+  }
+  .intro .butt {
+    top: 440px;
+  }
+  .intro .top {
+    height: 590px;
+  }
+  .intro .pagination {
+    top: 640px;
+    right: auto;
+    left: 30px;
+  }
+  .intro .slider-controls {
+    right: 30px;
+    left: auto;
+    top: 620px;
+  }
+  .intro .bott {
+    padding: 90px 0px 20px 10px;
+  }
+  .intro {
+    height: 833px;
+  }
+  .intro .card-6 {
+    top: 160px;
+  }
+  .intro .chat-wind {
+    top: 72px;
+    height: 250px;
+  }
+  .intro .card-7 {
+    max-width: 75% !important;
+  }
+  audio {
+    width: 85%;
+  }
+  .quiz01 .q-item {
+    padding: 24px 24px 24px 50px;
+  }
+  .quiz01 .q-item::before {
+    left: 10px;
+  }
+  .quiz01 .q-item.chosen::after {
+    left: 15px;
+  }
+  .reviews .wrapper {
+    background: none;
+  }
+  .modal-enter .modal-body {
+    max-width: 93%;
+  }
+  .a-header .logo {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 40%;
+  }
+  .quiz02,
+  .reviews,
+  .statistic,
+  .articles,
+  .quiz01,
+  .integration,
+  .support,
+  .faq,
+  .programm,
+  .possibilities,
+  .select-format,
+  .intro .bott,
+  .intro .top {
+    border-radius: 25px;
+  }
+  .integration img {
+    max-width: 100%;
+    border-radius: 20px;
+  }
+  .integration {
+    padding: 20px 0px 80px 0px;
+  }
+  .quiz01 .q-next {
+    width: 290px;
+    height: 44px;
+    font-size: 12px;
+    border-radius: 16px;
+  }
+  .quiz01 .q-next:hover {
+    background: #6688e1;
+  }
+  .quiz01 .q-next svg {
+    max-width: 18px;
+  }
+  .quiz02 .nd-button {
+    padding: 0px 0px 0px 0px;
+    width: 198px;
+    height: 44px;
+    /* update/accent */
+    border-radius: 16px;
+    font-size: 12px;
+  }
+  .quiz02 .nd-button:hover {
+    background: #6688e1;
+  }
+  .quiz02 .nd-button svg {
+    max-width: 18px;
+  }
+  .reviews .wrapper {
+    background: #f0f0f0;
+    border-radius: 20px;
+    padding: 20px;
+  }
+  .intro .bott h2 {
+    font-size: 18px;
+  }
+  .footer .right {
+    position: relative;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    height: 360px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  .footer ul {
+    width: 45%;
+  }
+  .footer .f-butt {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 30px;
+  }
+  .a-chat .a-chat-body,
+  .a-callback .a-callback-body {
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .a-chat .a-chat-body h2,
+  .a-callback .a-callback-body h2 {
+    font-size: 20px;
+  }
+  .fix-buttons {
+    border-radius: 50px;
+    background: #fff;
+    padding: 5px;
+    bottom: 50px;
+    right: 20px;
+    gap: 10px;
+  }
+  .fix-buttons svg {
+    max-height: 40px;
+    max-width: 40px;
+  }
+  .footer {
+    padding: 24px 0px 130px 0px;
+  }
+  .a-chat .a-chat-body h2,
+  .a-callback .a-callback-body h2 {
+    margin: 0px 0px 10px 0px;
+  }
+  .a-chat .a-chat-body .info,
+  .a-callback .a-callback-body .info {
+    font-size: 14px;
+  }
+  .a-callback .nd-form__body {
+    margin: 20px 0px 0px 0px;
+  }
+  .a-header .list a {
+    font-size: 30px;
+  }
+  .a-header .msgrs-opn img {
+    min-height: 30px;
+  }
+  .support .item.center {
+    left: 50%;
+    margin-left: -170px;
+  }
+  .support .item {
+    height: 350px;
+  }
+  .support .wrapper {
+    height: 810px;
+  }
+  .articles a img {
+    height: 88%;
+  }
+  .fix-buttons {
+    z-index: 999;
+    -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+    right: 16px;
+  }
+  .intro .animation {
+    z-index: 900;
+  }
+  .quiz01 .anim {
+    display: none;
+  }
+  .instructions .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .instructions .wrap {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .instructions h2 {
+    font-size: 24px;
+  }
+  .modal-enter .modal-body,
+  .a-chat .a-chat-body,
+  .a-callback .a-callback-body {
+    border-radius: 16px;
+    padding: 16px;
+  }
+  .modal-enter .nd-button,
+  .a-callback .nd-button {
+    padding: 16px;
+    padding: 16px;
+    font-size: 12px;
+    border-radius: 16px;
+    margin: 20px 0px 0px 0px;
+  }
+  .a-callback .nd-form__legend,
+  .a-chat .a-chat-body .info,
+  .a-callback .a-callback-body .info {
+    font-size: 12px;
+  }
+  .a-callback .nd-input {
+    font-size: 14px;
+  }
+  .a-chat .a-chat-body p,
+  .a-callback .a-callback-body p {
+    font-size: 12px;
+  }
+  .modal-enter h2 {
+    font-size: 24px;
+  }
+  .modal-enter .info {
+    font-size: 12px;
+  }
+  .modal-enter .info p {
+    font-size: 12px;
+  }
+  .instructions .item {
+    max-width: 45%;
+  }
+  .programm h2 {
+    font-size: 32px;
+  }
+  .select-format h2,
+  .programm h2,
+  .possibilities .title h2,
+  .support h2,
+  .integration h2,
+  .quiz01 h2,
+  .articles h2,
+  .statistic h2,
+  .faq h2,
+  .reviews h2,
+  .quiz02 h2 {
+    margin: 0px 0px 10px 0px;
+  }
+  .programm .wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .select-format h2,
+  .programm h2,
+  .possibilities .title h2,
+  .support h2,
+  .integration h2,
+  .quiz01 h2,
+  .articles h2,
+  .statistic h2,
+  .faq h2,
+  .reviews h2,
+  .quiz02 h2 {
+    font-size: 24px;
+  }
+  .possibilities .title p,
+  .support .subtitle,
+  .quiz01 .sub,
+  .articles .subtitle,
+  .statistic .subtitle,
+  .faq .subtitle,
+  .reviews .sub,
+  .quiz02 .subtitle {
+    font-size: 14px;
+    margin: 0px 0px 10px 0px;
+  }
+  .reviews .butt-more,
+  .articles .butt-more {
+    padding: 16px 22px;
+    font-size: 12px;
+    width: auto;
+    height: auto;
+    display: table;
+    min-width: 0;
+  }
+  .modal-enter.active {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .modal {
+    height: 100%;
+  }
+  .modal .modal-content {
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  #video-player {
+    max-height: 30vh;
+    margin: auto;
+  }
+  .select-format .wrapper {
+    gap: 0;
+  }
+  .integration h3 {
+    font-size: 18px;
+  }
+  .integration p {
+    font-size: 14px;
+  }
+  .possibilities .animation2,
+  .possibilities .cc-animation2 {
+    margin: 30px 0px 0px 0px;
+  }
+  .faq.functions .subtitle {
+    margin: 0px 0px 30px 0px;
+  }
+  .select-format .butt {
+    border-radius: 20px;
+  }
+  .possibilities .buttn h3 {
+    font-size: 14px;
+  }
+  .programm h3 {
+    font-size: 18px;
+  }
+  .control .buttn2 h3 {
+    font-size: 14px;
+  }
+  .quiz01 .q-item {
+    border-radius: 16px;
+  }
+  .quiz01 .q-item:nth-last-child(1) {
+    width: 100%;
+  }
+  .reviews .stars {
+    font-size: 20px;
+    margin: 30px 0;
+  }
+  .reviews .wrapper li {
+    font-size: 16px;
+  }
+  .faq .subtitle {
+    margin: 0px 0px 30px 0px;
+  }
+  .quiz02 .subtitle {
+    margin: 0px 0px 60px 0px;
+  }
+  .intro .animation {
+    max-width: 600px;
+    right: auto;
+    left: auto;
+  }
+}
+
+@media (max-width: 413px) {
+  .support .wrapper {
+    height: 810px;
+  }
+  .support .item {
+    height: 380px;
+  }
+  .select-format .butt {
+    height: 130px;
+  }
+  .support .item.center {
+    left: 50%;
+    margin-left: -130px;
+  }
+  .quiz01 .anim-wind {
+    width: 100%;
+  }
+  .a-header .enter {
+    padding: 5px 9px;
+    gap: 10px;
+    width: 85px;
+  }
+  .a-header .list a {
+    font-size: 18px;
+  }
+  .a-header .list ul {
+    gap: 15px;
+    margin-top: 50px;
+  }
+  .a-header .msgrs-opn {
+    top: 13px;
+  }
+  .select-format .buttons {
+    gap: 10px;
+  }
+  .control .buttn2 h3 {
+    font-size: 13px;
+  }
+  .support h3 {
+    font-size: 18px;
+  }
+  .integration h3,
+  .select-format h2,
+  .programm h2,
+  .possibilities .title h2,
+  .support h2,
+  .integration h2,
+  .quiz01 h2,
+  .articles h2,
+  .statistic h2,
+  .faq h2,
+  .reviews h2,
+  .quiz02 h2 {
+    font-size: 20px;
+  }
+  .quiz01 .q-buttons {
+    gap: 10px;
+  }
+  .quiz01 .q-item {
+    padding: 24px 24px 24px 40px;
+  }
+  .quiz01 .q-item::before {
+    left: 5px;
+  }
+  .quiz01 .q-item.chosen::after {
+    left: 10px;
+  }
+  .integration p {
+    font-size: 14px;
+  }
+  .faq .answer-js {
+    font-size: 14px;
+  }
+  .footer ul a {
+    font-size: 13px;
+  }
+  .quiz01 .anim-wind {
+    top: 65px;
+  }
+  .quiz01 .anim-wind {
+    height: 260px;
+  }
+  .quiz01 .chat-dir {
+    top: 165px;
+  }
+}
